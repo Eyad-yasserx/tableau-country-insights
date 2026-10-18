@@ -5,7 +5,7 @@ Interactive Tableau dashboards analysing economic, resource and public-health
 indicators for 225 countries.
 
 ## Live dashboard
-[Open on Tableau Public](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[Open on Tableau Public](https://public.tableau.com/app/profile/eyad.yasser/viz/CountryDataComparisondashboard/GlobalCountryInsight2)
 
 ## Preview
 ![Dashboard](screenshots/dashboard.png)
